@@ -58,7 +58,7 @@ Slicers
 
 # Data Cleaning & Processing
 
-##💡 How to Use
+## 💡 How to Use
 
 Download the Excel file.
 
@@ -68,6 +68,8 @@ Use slicers to filter and explore insights.
 
 Read the PDF for a summary of findings.
 
+# 📘 **Insight Report**  
+➡️ [Download PDF](Insight_Report.pdf)
 
 📧 Contact
 
