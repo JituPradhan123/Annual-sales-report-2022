@@ -2,7 +2,7 @@
 
 This project contains the full data analysis of Store annual performance.
 It includes data cleaning, visualization, and insight generation using Excel dashboards.
-![Dashboard](Screenshot-2025-11-24-230642.jpg)
+![Dashboard](Screenshot 2025-11-24 230642.jpg)
 
 # 📊 Project Overview
 
